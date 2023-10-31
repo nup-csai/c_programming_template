@@ -1,2 +1,4 @@
 # c_programming_template
-Programming fundamentals template
+
+Programming fundamentals solution repo template
+
