@@ -1,4 +1,4 @@
-# Programming Fundamentals
+# Programming Fundamentals with C and Linux
 
 This repo is part of NUP Programming Fundamentals course
 
@@ -6,15 +6,15 @@ This repo is part of NUP Programming Fundamentals course
 
   * src - should contain sources all sources
   * tst - should contain tests (if it is required according to assignment)
-  * app - should contain all executables, after building solution by make
-  * Makefile -- will be used to build you solution
+  * app - should contain all executables after building the solution by make
+  * Makefile -- will be used to build your solution
     * build command ```make``` without any arguments in the root folder of repo
   * Dockerfile -- should define docker image (if it is required)
   * docker-compose.yml -- should contain services definitions (if it is required)
 
 ## How to submit a solution for checking
 
-  All solutions should be sent as a pull request to the **solution** branch before the deadline. It will be checked manually or automatically.
+  All solutions should be pushed to the **solution** branch before the deadline. It will be checked manually or automatically.
 
 ## References
 
