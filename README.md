@@ -7,6 +7,7 @@ This repo is part of NUP Programming Fundamentals course
   * src - should contain sources all sources
   * tst - should contain tests (if it is required according to assignment)
   * app - should contain all executables after building the solution by make
+  * data - data examples and inputs will be here
   * Makefile -- will be used to build your solution
     * build command ```make``` without any arguments in the root folder of repo
   * Dockerfile -- should define docker image (if it is required)
