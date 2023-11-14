@@ -1,0 +1,4 @@
+name, lastname, email, age, comment
+John, Smith, john@smith.com, 23, Programming geek
+Marry, Fox, fox@study.com, 31, Famous artist from Paphos
+ 
